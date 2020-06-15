@@ -1,0 +1,10 @@
+name: VivatCore
+version: '2.0.0'
+description: Core plugin for Vivat
+author: Robnoo02
+main: net.vivatcreative.core.VivatCore
+
+commands:
+  vivat:
+    usage: /<command>
+    description: Main command

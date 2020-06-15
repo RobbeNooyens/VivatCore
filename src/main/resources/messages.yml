@@ -1,0 +1,126 @@
+# Errors:
+# =======
+error:
+  - '&7[&cERROR&7] An error occurred. Our developers have been notified.'
+custom_error:
+  - '&7[&cERROR&7] %message%'
+something_went_wrong:
+  - '&7[&cERROR&7] Oops! Something went wrong.'
+
+# General:
+# ========
+config_reloaded:
+  - '&7[&eCONFIG&7] &7Config has been reloaded'
+plugin_reloaded:
+  - '&7[&eVIVAT&7] &aSuccesfully &7reloaded &b%plugin%'
+plugin_enabled:
+  - '&7[&eVIVAT&7] &aSuccesfully &7enabled &b%plugin%'
+plugin_disabled:
+  - '&7[&eVIVAT&7] &aSuccesfully &7disabled &b%plugin%'
+couldnt_reload:
+  - "&7[&eVIVAT&7] &cWarning: &7Couldn't reload &b%plugin%"
+welcome:
+  - '&8&m-----------------------------------------------------'
+  - '      &bWelcome to Vivat Creative, &3%player%&b!'
+  - '&8&m-----------------------------------------------------'
+database_reconnected:
+  - '&7[&eDATABASE&7] &7Reconnected database'
+
+# Permissions:
+# ============
+no_perm:
+  - '&7[&cPERMISSION&7] &cWarning: &7you do not have permissions for this!'
+
+# Commands:
+# =========
+target_not_found:
+  - '&7[&eCMD&7] Target not found.'
+should_be_player:
+  - '&7[&eCMD&7] &cYou should be a player to do this!'
+command_usage:
+  - '&7[&eCMD&7] &aUsage: &7%usage%'
+invalid_argument:
+  - '&7[&eCMD&7] &cWarning: &7Invalid argument.'
+vivat_help:
+  - '&8&m-----------------------------------------------------'
+  - ' '
+  - '&6Vivat Help:'
+  - "&c/vivat menu: &eOpen the main menu"
+  - '&c/vivat reload (plugin): &eReload a plugin'
+  - '&c/vivat list: &eList subplugins'
+  - '&c/vivat: &eOpen the general help menu'
+  - '&c/vivat help: &eShow this page'
+  - ' '
+  - '&8&m-----------------------------------------------------'
+
+# INFO:
+# =====
+hub_freebuild_info:
+  - ' '
+  - '&8&m------------------&7[ &c&lFreebuild &r&7Info &7]&8&m-------------------'
+  - '  &7Claim a plot and build whatever you want! You can use all'
+  - '  &7worldedit and voxel tools for free and add whoever you'
+  - '  &7want to your plot.'
+  - '  &7Plot size: &f501x501'
+  - '&8&m-----------------------------------------------------'
+hub_buildbattle_info:
+  - ' '
+  - '&8&m-----------------&7[ &e&lBuild Battle &r&7Info &7]&8&m------------------'
+  - '  &7Play build battle with full access to worldedit and voxel.'
+  - '  &7Minimum required players: &f2'
+  - '  &7Worldedit: &aEnabled'
+  - '&8&m-----------------------------------------------------'
+hub_bronze_info:
+  - ' '
+  - '&8&m-------------------&7[ &3&lBronze &r&7Info &7]&8&m--------------------'
+  - '  &7This is the first ranked world, which means that you start'
+  - '  &7here and that your plot can be submitted and be reviewed.'
+  - '  &7Claim a plot and start building. Use /submit when you''re'
+  - '  &7finished.'
+  - '  &7Plot size: &f31x31'
+  - '&8&m-----------------------------------------------------'
+hub_silver_info:
+  - ' '
+  - '&8&m-------------------&7[ &f&lSilver &r&7Info &7]&8&m---------------------'
+  - '  &7This is the second ranked world. You can unlock this world'
+  - '  &7by getting a total score of 60 in the Bronze world.'
+  - '  &7Claim a plot and start building. Use /submit when you''re'
+  - '  &7finished.'
+  - '  &7Plot size: &f75x75'
+  - '&8&m-----------------------------------------------------'
+hub_gold_info:
+  - ' '
+  - '&8&m--------------------&7[ &6&lGold &r&7Info &7]&8&m---------------------'
+  - '  &7This is the third ranked world. You can unlock this world'
+  - '  &7by getting a total score of 204 in the previous worlds.'
+  - '  &7Claim a plot and start building. Use /submit when you''re'
+  - '  &7finished.'
+  - '  &7Plot size: &f125x125'
+  - '&8&m-----------------------------------------------------'
+hub_diamond_info:
+  - ' '
+  - '&8&m------------------&7[ &b&lDiamond &r&7Info &7]&8&m--------------------'
+  - '  &7This is the fourth ranked world. You can unlock this world'
+  - '  &7by getting a total score of 444 in the previous worlds.'
+  - '  &7Claim a plot and start building. Use /submit when you''re'
+  - '  &7finished.'
+  - '  &7Plot size: &f225x225'
+  - '&8&m-----------------------------------------------------'
+hub_emerald_info:
+  - ' '
+  - '&8&m------------------&7[ &a&lEmerald &r&7Info &7]&8&m--------------------'
+  - '  &7This is the fifth ranked world. You can unlock this world'
+  - '  &7by getting a total score of 876 in the previous worlds.'
+  - '  &7Claim a plot and start building. Use /submit when you''re'
+  - '  &7finished.'
+  - '  &7Plot size: &f300x300'
+  - '&8&m-----------------------------------------------------'
+hub_master_info:
+  - ' '
+  - '&8&m-------------------&7[ &5&lMaster &r&7Info &7]&8&m--------------------'
+  - '  &7This is the sixth ranked world. You can unlock this world'
+  - '  &7by getting a total score of 1440 in the previous worlds.'
+  - '  &7Claim a plot and start building. Use /submit when you''re'
+  - '  &7finished.'
+  - '  &7Plot size: &f501x501'
+  - '&8&m-----------------------------------------------------'
